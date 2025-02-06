@@ -18,7 +18,7 @@ Este proyecto desarrolla un sistema para segmentar y reconocer los caracteres de
 2. Asegúrate de situarte y contar con las imágenes de entrenamiento en la carpeta correspondiente.
 
 ## Uso
-Ejecuta el script principal ```main.m``` para procesar una imagen de matrícula.
+Ejecuta el script principal ```main.m``` para procesar un conjunto de imagenes de matrícula.
 
 ## Autor
 **Miguel Quiroga Campos** - Grado en Ingeniería Informática
