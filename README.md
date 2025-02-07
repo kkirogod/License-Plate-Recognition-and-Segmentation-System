@@ -1,5 +1,5 @@
 # License Plate Recognition and Segmentation System
-Development of a system capable of segmenting and recognizing the characters of vehicle license plates from images.
+Development of a system to segment and recognize vehicle license plate characters from images, focused on providing a robust and accurate solution to challenges such as image noise, poor lighting, and proximity between characters.
 
 ![image](https://github.com/user-attachments/assets/b90e2e69-0bd8-4831-b01d-73571760c9e8)
 
